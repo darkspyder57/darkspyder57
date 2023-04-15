@@ -1,6 +1,6 @@
 - 👋 Hi, I’m M MOHNISH KUMAR.
 - 👀 I’m interested in coding, exploring and web development.
-- 🌱 I’m currently learning React Js.
+- 👨‍💻 I’m currently learning React Js.
 - 💞️ I’m looking to collaborate on Full Stack Development using React & Spring Boot.
 - 📫 You can reach me at Instagram,LinkedIn,Facebook.
 
